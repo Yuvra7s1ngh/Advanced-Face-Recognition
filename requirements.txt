@@ -1,0 +1,17 @@
+deepface==0.0.92
+opencv-python==4.8.1.78
+numpy==1.24.3
+pandas==2.0.3
+Pillow==10.0.0
+tensorflow==2.13.0
+scikit-learn==1.3.0
+matplotlib==3.7.2
+flask==2.3.3
+streamlit==1.26.0
+ultralytics==8.0.147
+dlib==19.24.2
+face-recognition==1.3.0
+imutils==0.5.4
+tqdm==4.66.1
+requests==2.31.0
+scipy==1.11.2
